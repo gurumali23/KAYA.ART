@@ -1,0 +1,18 @@
+:root {
+  --ink:#202822;
+  --muted:#69736d;
+  --paper:#fff;
+  --cream:#f7faf7;
+  --cream:#f8faf8;
+  --green:#238858;
+  --green-dark:#176e48;
+  --mint:#e9f8ef;
+  --mint-strong:#d8f3e3;
+  --line:#dfe6e1;
+  --sale:#238858;
+  --serif:'Mali','Comic Sans MS','Trebuchet MS',sans-serif;
+  --sans:'Nunito Sans','Trebuchet MS',Arial,sans-serif;
+  --max:1440px;
+  --shadow:0 8px 24px #17251c12;
+  --radius:9px
+}

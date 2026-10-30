@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-labelledby="title">
+  <title id="title">Resin candle holder illustration</title>
+  <rect width="600" height="750" fill="#f3f7f4"/>
+  <ellipse cx="300" cy="560" rx="150" ry="24" fill="#202822" opacity=".08"/>
+  <path d="M285 245h30v175h-30z" fill="#f6e8c7"/>
+  <path d="M300 208c-18 24-17 39 0 49 17-10 18-25 0-49" fill="#e2a04b"/>
+  <path d="M220 405c0-23 18-42 42-42h76c24 0 42 19 42 42v112c0 23-18 42-42 42h-76c-24 0-42-19-42-42z" fill="#83a68b"/>
+  <ellipse cx="300" cy="405" rx="80" ry="21" fill="#e8eee7"/>
+  <ellipse cx="300" cy="405" rx="48" ry="11" fill="#879b8c"/>
+  <path d="M243 456c28-25 70-24 112 0" fill="none" stroke="#dce4d9" stroke-width="12" opacity=".8"/>
+  <text x="300" y="635" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#53645a">Resin candle holder</text>
+</svg>
